@@ -1,0 +1,39 @@
+• Home Page 
+: Site logo / Name + Shared ` (Home, Projects, About)
+	
+    
+    • <main>:
+		• Hero section (<section>): Large <h1> headline 
+        Hello my name is Shenique Seale.
+        I'm a student at Campus and these are the things I like to do. 
+		
+        • Featured highlights (<section>): I enjoy spending time with my children when I'm not doing assignments. I like to draw and paint. I also enjoy reading, writing, and watching YouTube videos in my spare time. 
+	• <footer>: Shenique Seale 
+    
+   
+    • Projects / Work Page:+ Shared`
+	• <main>:
+		• Page header (<h1>): "My Projects"
+		• Project list (<section>): I like to dance and sing. I enjoy trying new cafes when I have the time. I enjoy learning new things when I have the time.
+     <h3> I enjoy the movie theatre when new movies come out. 
+?
+	• <footer>: Shenique Seale 
+   
+   
+    • About / Contact Page:+ Shared`
+	• <main>:
+		• Bio section (<section>): <h1> About Me, background paragraphs, <h2> Experience / Skills.
+		• Contact section (<section>): <h2> Get in Touch, contact details, basic form skeleton.
+	• <footer>: Shenique Seale 
+
+
+Intended Design Notes
+
+• Color Palette:
+	• Background Primary: #F9F8F6 (Warm Off-White)
+	• Text Primary: #1E1E1E (Dark Charcoal)
+	• Accent Color: #2B580C (Forest Green)
+	• Border/Muted: #D1D1D1 (Light Gray)
+• Font Choices:
+	• Headings: Inter or Syne (Sans-serif, bold geometric look)
+	• Body Text: Source Serif 4 or Lora (Clean, readable serif or sans-serif fallback like system-ui)
